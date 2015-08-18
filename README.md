@@ -44,4 +44,4 @@ bf.close()
 
 Special thanks to Austin Appleby for placing MurmurHash3 into the public domain.
 
-If you would like to extend the functionality of the extension, pull requests are most welcome.
+Pull requests are most welcome.
