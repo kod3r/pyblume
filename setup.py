@@ -1,6 +1,6 @@
 from distutils.core import setup, Extension
 setup(name="pyblume",
-	version="1.0.7",
+	version="1.0.8",
 	url='http://terbiumlabs.com/pyblume',
 	license='BSD',
 	author="Terbium Labs",
