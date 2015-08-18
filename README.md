@@ -1,10 +1,10 @@
-# PyBlume
+# pyblume 
 
-PyBlume is a fast, scalable bloom filter implementation for Python. 
+pyblume is a fast, scalable bloom filter implementation for Python. 
 
 ## Installation
 
-The easiest way to use the extension is to install it from [PyPI](https://pypi.python.org/pypi/Flask-Cassandra) using pip:
+The easiest way to use the extension is to install it from [PyPI](https://pypi.python.org/pypi/pyblume) using pip:
 ```sh
 $ pip install pyblume
 ```
@@ -17,7 +17,7 @@ $ python setup.py install
 
 ## Use
 
-This example shows how to create a bloom filter using PyBlume, and check for a match.
+This example shows how to create a bloom filter using pyblume, and check for a match.
 
 ```python
 import pyblume
